@@ -1,0 +1,17 @@
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\bin\Debug\net6.0-windows\空间前方交会_考前复习.exe
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\bin\Debug\net6.0-windows\空间前方交会_考前复习.deps.json
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\bin\Debug\net6.0-windows\空间前方交会_考前复习.runtimeconfig.json
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\bin\Debug\net6.0-windows\空间前方交会_考前复习.dll
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\bin\Debug\net6.0-windows\空间前方交会_考前复习.pdb
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.csproj.AssemblyReference.cache
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.Form1.resources
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.csproj.GenerateResource.cache
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.AssemblyInfoInputs.cache
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.AssemblyInfo.cs
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.csproj.CoreCompileInputs.cache
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.dll
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\refint\空间前方交会_考前复习.dll
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.pdb
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\空间前方交会_考前复习.genruntimeconfig.cache
+D:\C#比赛\空间前方交会_考前复习\空间前方交会_考前复习\obj\Debug\net6.0-windows\ref\空间前方交会_考前复习.dll

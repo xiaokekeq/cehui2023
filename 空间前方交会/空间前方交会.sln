@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "空间前方交会", "空间前方交会\空间前方交会.csproj", "{D0BC3DB6-6C2C-42EA-8306-8998F3F04098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0BC3DB6-6C2C-42EA-8306-8998F3F04098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BC3DB6-6C2C-42EA-8306-8998F3F04098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BC3DB6-6C2C-42EA-8306-8998F3F04098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BC3DB6-6C2C-42EA-8306-8998F3F04098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {969D7541-E2E0-43BB-8E83-5179CA2EE93E}
+	EndGlobalSection
+EndGlobal

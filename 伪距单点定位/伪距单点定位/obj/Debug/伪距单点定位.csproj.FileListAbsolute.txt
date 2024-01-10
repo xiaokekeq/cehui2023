@@ -1,0 +1,10 @@
+D:\C#比赛\伪距单点定位\伪距单点定位\bin\Debug\伪距单点定位.exe.config
+D:\C#比赛\伪距单点定位\伪距单点定位\bin\Debug\伪距单点定位.exe
+D:\C#比赛\伪距单点定位\伪距单点定位\bin\Debug\伪距单点定位.pdb
+D:\C#比赛\伪距单点定位\伪距单点定位\obj\Debug\伪距单点定位.csprojAssemblyReference.cache
+D:\C#比赛\伪距单点定位\伪距单点定位\obj\Debug\伪距单点定位.Form1.resources
+D:\C#比赛\伪距单点定位\伪距单点定位\obj\Debug\伪距单点定位.Properties.Resources.resources
+D:\C#比赛\伪距单点定位\伪距单点定位\obj\Debug\伪距单点定位.csproj.GenerateResource.cache
+D:\C#比赛\伪距单点定位\伪距单点定位\obj\Debug\伪距单点定位.csproj.CoreCompileInputs.cache
+D:\C#比赛\伪距单点定位\伪距单点定位\obj\Debug\伪距单点定位.exe
+D:\C#比赛\伪距单点定位\伪距单点定位\obj\Debug\伪距单点定位.pdb

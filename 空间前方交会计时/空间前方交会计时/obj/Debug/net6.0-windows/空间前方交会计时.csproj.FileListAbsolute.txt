@@ -1,0 +1,17 @@
+D:\C#比赛\空间前方交会计时\空间前方交会计时\bin\Debug\net6.0-windows\空间前方交会计时.exe
+D:\C#比赛\空间前方交会计时\空间前方交会计时\bin\Debug\net6.0-windows\空间前方交会计时.deps.json
+D:\C#比赛\空间前方交会计时\空间前方交会计时\bin\Debug\net6.0-windows\空间前方交会计时.runtimeconfig.json
+D:\C#比赛\空间前方交会计时\空间前方交会计时\bin\Debug\net6.0-windows\空间前方交会计时.dll
+D:\C#比赛\空间前方交会计时\空间前方交会计时\bin\Debug\net6.0-windows\空间前方交会计时.pdb
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.csproj.AssemblyReference.cache
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.Form1.resources
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.csproj.GenerateResource.cache
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.AssemblyInfoInputs.cache
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.AssemblyInfo.cs
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.csproj.CoreCompileInputs.cache
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.dll
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\refint\空间前方交会计时.dll
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.pdb
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\空间前方交会计时.genruntimeconfig.cache
+D:\C#比赛\空间前方交会计时\空间前方交会计时\obj\Debug\net6.0-windows\ref\空间前方交会计时.dll

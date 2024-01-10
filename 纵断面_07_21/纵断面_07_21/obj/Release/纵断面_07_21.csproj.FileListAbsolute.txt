@@ -1,0 +1,9 @@
+D:\C#比赛\纵断面_07_21\纵断面_07_21\bin\Release\纵断面_07_21.exe.config
+D:\C#比赛\纵断面_07_21\纵断面_07_21\bin\Release\纵断面_07_21.exe
+D:\C#比赛\纵断面_07_21\纵断面_07_21\bin\Release\纵断面_07_21.pdb
+D:\C#比赛\纵断面_07_21\纵断面_07_21\obj\Release\纵断面_07_21.Form1.resources
+D:\C#比赛\纵断面_07_21\纵断面_07_21\obj\Release\纵断面_07_21.Properties.Resources.resources
+D:\C#比赛\纵断面_07_21\纵断面_07_21\obj\Release\纵断面_07_21.csproj.GenerateResource.cache
+D:\C#比赛\纵断面_07_21\纵断面_07_21\obj\Release\纵断面_07_21.csproj.CoreCompileInputs.cache
+D:\C#比赛\纵断面_07_21\纵断面_07_21\obj\Release\纵断面_07_21.exe
+D:\C#比赛\纵断面_07_21\纵断面_07_21\obj\Release\纵断面_07_21.pdb

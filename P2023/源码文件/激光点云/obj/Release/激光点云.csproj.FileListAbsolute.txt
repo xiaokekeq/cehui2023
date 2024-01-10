@@ -1,0 +1,9 @@
+C:\Users\xiaoke\Desktop\P2023\源码文件\激光点云\bin\Release\激光点云.exe.config
+C:\Users\xiaoke\Desktop\P2023\源码文件\激光点云\bin\Release\激光点云.exe
+C:\Users\xiaoke\Desktop\P2023\源码文件\激光点云\bin\Release\激光点云.pdb
+C:\Users\xiaoke\Desktop\P2023\源码文件\激光点云\obj\Release\激光点云.Form1.resources
+C:\Users\xiaoke\Desktop\P2023\源码文件\激光点云\obj\Release\激光点云.Properties.Resources.resources
+C:\Users\xiaoke\Desktop\P2023\源码文件\激光点云\obj\Release\激光点云.csproj.GenerateResource.cache
+C:\Users\xiaoke\Desktop\P2023\源码文件\激光点云\obj\Release\激光点云.csproj.CoreCompileInputs.cache
+C:\Users\xiaoke\Desktop\P2023\源码文件\激光点云\obj\Release\激光点云.exe
+C:\Users\xiaoke\Desktop\P2023\源码文件\激光点云\obj\Release\激光点云.pdb

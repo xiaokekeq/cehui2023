@@ -1,0 +1,10 @@
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\bin\Release\栅格数据的领域计算_0721.exe.config
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\bin\Release\栅格数据的领域计算_0721.exe
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\bin\Release\栅格数据的领域计算_0721.pdb
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\obj\Release\栅格数据的领域计算_0721.Form1.resources
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\obj\Release\栅格数据的领域计算_0721.Properties.Resources.resources
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\obj\Release\栅格数据的领域计算_0721.csproj.GenerateResource.cache
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\obj\Release\栅格数据的领域计算_0721.csproj.CoreCompileInputs.cache
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\obj\Release\栅格数据的领域计算_0721.exe
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\obj\Release\栅格数据的领域计算_0721.pdb
+D:\C#比赛\栅格数据的领域计算_0721\栅格数据的领域计算_0721\obj\Release\栅格数据的领域计算_0721.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\C#比赛\zf_028\zf_028\bin\Debug\zf_028.exe.config
+D:\C#比赛\zf_028\zf_028\bin\Debug\zf_028.exe
+D:\C#比赛\zf_028\zf_028\bin\Debug\zf_028.pdb
+D:\C#比赛\zf_028\zf_028\obj\Debug\zf_028.csprojAssemblyReference.cache
+D:\C#比赛\zf_028\zf_028\obj\Debug\zf_028.Form1.resources
+D:\C#比赛\zf_028\zf_028\obj\Debug\zf_028.Properties.Resources.resources
+D:\C#比赛\zf_028\zf_028\obj\Debug\zf_028.csproj.GenerateResource.cache
+D:\C#比赛\zf_028\zf_028\obj\Debug\zf_028.csproj.CoreCompileInputs.cache
+D:\C#比赛\zf_028\zf_028\obj\Debug\zf_028.exe
+D:\C#比赛\zf_028\zf_028\obj\Debug\zf_028.pdb

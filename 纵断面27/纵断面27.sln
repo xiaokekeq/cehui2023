@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "纵断面27", "纵断面27\纵断面27.csproj", "{68FD6186-483C-419C-9694-4D4BB0F34AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FD6186-483C-419C-9694-4D4BB0F34AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FD6186-483C-419C-9694-4D4BB0F34AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FD6186-483C-419C-9694-4D4BB0F34AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FD6186-483C-419C-9694-4D4BB0F34AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA08834-85D9-422D-841A-C875BD459445}
+	EndGlobalSection
+EndGlobal

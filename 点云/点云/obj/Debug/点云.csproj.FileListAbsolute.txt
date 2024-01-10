@@ -1,0 +1,10 @@
+D:\C#比赛\点云\点云\obj\Debug\点云.csprojAssemblyReference.cache
+D:\C#比赛\点云\点云\obj\Debug\点云.Form1.resources
+D:\C#比赛\点云\点云\obj\Debug\点云.Properties.Resources.resources
+D:\C#比赛\点云\点云\obj\Debug\点云.csproj.GenerateResource.cache
+D:\C#比赛\点云\点云\obj\Debug\点云.csproj.CoreCompileInputs.cache
+D:\C#比赛\点云\点云\bin\Debug\点云.exe.config
+D:\C#比赛\点云\点云\bin\Debug\点云.exe
+D:\C#比赛\点云\点云\bin\Debug\点云.pdb
+D:\C#比赛\点云\点云\obj\Debug\点云.exe
+D:\C#比赛\点云\点云\obj\Debug\点云.pdb

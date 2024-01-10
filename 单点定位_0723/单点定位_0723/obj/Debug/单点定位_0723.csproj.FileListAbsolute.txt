@@ -1,0 +1,10 @@
+D:\C#比赛\单点定位_0723\单点定位_0723\obj\Debug\单点定位_0723.csprojAssemblyReference.cache
+D:\C#比赛\单点定位_0723\单点定位_0723\obj\Debug\单点定位_0723.Form1.resources
+D:\C#比赛\单点定位_0723\单点定位_0723\obj\Debug\单点定位_0723.Properties.Resources.resources
+D:\C#比赛\单点定位_0723\单点定位_0723\obj\Debug\单点定位_0723.csproj.GenerateResource.cache
+D:\C#比赛\单点定位_0723\单点定位_0723\obj\Debug\单点定位_0723.csproj.CoreCompileInputs.cache
+D:\C#比赛\单点定位_0723\单点定位_0723\bin\Debug\单点定位_0723.exe.config
+D:\C#比赛\单点定位_0723\单点定位_0723\bin\Debug\单点定位_0723.exe
+D:\C#比赛\单点定位_0723\单点定位_0723\bin\Debug\单点定位_0723.pdb
+D:\C#比赛\单点定位_0723\单点定位_0723\obj\Debug\单点定位_0723.exe
+D:\C#比赛\单点定位_0723\单点定位_0723\obj\Debug\单点定位_0723.pdb

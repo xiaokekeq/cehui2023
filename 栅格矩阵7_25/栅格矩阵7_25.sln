@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "栅格矩阵7_25", "栅格矩阵7_25\栅格矩阵7_25.csproj", "{42A7C3F9-6AD1-4D7C-8898-7434B9A14A5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A7C3F9-6AD1-4D7C-8898-7434B9A14A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A7C3F9-6AD1-4D7C-8898-7434B9A14A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A7C3F9-6AD1-4D7C-8898-7434B9A14A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A7C3F9-6AD1-4D7C-8898-7434B9A14A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78887643-E95F-4B89-8F6E-744CE1A333FA}
+	EndGlobalSection
+EndGlobal

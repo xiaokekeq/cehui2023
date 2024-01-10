@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "栅格数据的领域计算_0721", "栅格数据的领域计算_0721\栅格数据的领域计算_0721.csproj", "{FD624BBA-98C4-449E-9205-81E3EA0D8359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD624BBA-98C4-449E-9205-81E3EA0D8359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD624BBA-98C4-449E-9205-81E3EA0D8359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD624BBA-98C4-449E-9205-81E3EA0D8359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD624BBA-98C4-449E-9205-81E3EA0D8359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F37741-BD41-4A9C-A19A-3936FC946A15}
+	EndGlobalSection
+EndGlobal
